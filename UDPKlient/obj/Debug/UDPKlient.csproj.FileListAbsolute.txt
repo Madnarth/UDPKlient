@@ -1,0 +1,8 @@
+E:\Dokumenty\GitHub\UDPKlient\UDPKlient\bin\Debug\UDPKlient.exe.config
+E:\Dokumenty\GitHub\UDPKlient\UDPKlient\bin\Debug\UDPKlient.exe
+E:\Dokumenty\GitHub\UDPKlient\UDPKlient\bin\Debug\UDPKlient.pdb
+E:\Dokumenty\GitHub\UDPKlient\UDPKlient\obj\Debug\UDPKlient.Form1.resources
+E:\Dokumenty\GitHub\UDPKlient\UDPKlient\obj\Debug\UDPKlient.Properties.Resources.resources
+E:\Dokumenty\GitHub\UDPKlient\UDPKlient\obj\Debug\UDPKlient.csproj.GenerateResource.Cache
+E:\Dokumenty\GitHub\UDPKlient\UDPKlient\obj\Debug\UDPKlient.exe
+E:\Dokumenty\GitHub\UDPKlient\UDPKlient\obj\Debug\UDPKlient.pdb
